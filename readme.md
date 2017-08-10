@@ -8,3 +8,4 @@ Fast-forward dealing.
 Bug branch test.
 Modify master's readme.
 Modify dev's readme.
+Test.
